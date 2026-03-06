@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0ACA6A-3559-4D7D-BF1C-F4FB76D554AC}|HeritageWorkshop.Core\\HeritageWorkshop.Core.csproj|c:\\users\\martin ruiz\\onedrive - sena\\escritorio\\tallerherencia2\\heritageworkshop\\heritageworkshop.core\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0ACA6A-3559-4D7D-BF1C-F4FB76D554AC}|HeritageWorkshop.Core\\HeritageWorkshop.Core.csproj|solutionrelative:heritageworkshop.core\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10AA39-5EA0-4C3D-B520-C156756334D1}|HeritageWorkshop.Console\\HeritageWorkshop.Console.csproj|c:\\users\\martin ruiz\\onedrive - sena\\escritorio\\tallerherencia2\\heritageworkshop\\heritageworkshop.console\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10AA39-5EA0-4C3D-B520-C156756334D1}|HeritageWorkshop.Console\\HeritageWorkshop.Console.csproj|solutionrelative:heritageworkshop.console\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0ACA6A-3559-4D7D-BF1C-F4FB76D554AC}|HeritageWorkshop.Core\\HeritageWorkshop.Core.csproj|c:\\users\\martin ruiz\\onedrive - sena\\escritorio\\tallerherencia2\\heritageworkshop\\heritageworkshop.core\\trapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0ACA6A-3559-4D7D-BF1C-F4FB76D554AC}|HeritageWorkshop.Core\\HeritageWorkshop.Core.csproj|solutionrelative:heritageworkshop.core\\trapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0ACA6A-3559-4D7D-BF1C-F4FB76D554AC}|HeritageWorkshop.Core\\HeritageWorkshop.Core.csproj|c:\\users\\martin ruiz\\onedrive - sena\\escritorio\\tallerherencia2\\heritageworkshop\\heritageworkshop.core\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0ACA6A-3559-4D7D-BF1C-F4FB76D554AC}|HeritageWorkshop.Core\\HeritageWorkshop.Core.csproj|solutionrelative:heritageworkshop.core\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0ACA6A-3559-4D7D-BF1C-F4FB76D554AC}|HeritageWorkshop.Core\\HeritageWorkshop.Core.csproj|c:\\users\\martin ruiz\\onedrive - sena\\escritorio\\tallerherencia2\\heritageworkshop\\heritageworkshop.core\\rhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0ACA6A-3559-4D7D-BF1C-F4FB76D554AC}|HeritageWorkshop.Core\\HeritageWorkshop.Core.csproj|solutionrelative:heritageworkshop.core\\rhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rhombus.cs",
+              "DocumentMoniker": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\HeritageWorkshop.Core\\Rhombus.cs",
+              "RelativeDocumentMoniker": "HeritageWorkshop.Core\\Rhombus.cs",
+              "ToolTip": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\HeritageWorkshop.Core\\Rhombus.cs",
+              "RelativeToolTip": "HeritageWorkshop.Core\\Rhombus.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAzwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:37:18.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "parallelogram.cs",
+              "DocumentMoniker": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\HeritageWorkshop.Core\\parallelogram.cs",
+              "RelativeDocumentMoniker": "HeritageWorkshop.Core\\parallelogram.cs",
+              "ToolTip": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\HeritageWorkshop.Core\\parallelogram.cs",
+              "RelativeToolTip": "HeritageWorkshop.Core\\parallelogram.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:36:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeometricFigure.cs",
+              "DocumentMoniker": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\HeritageWorkshop.Core\\GeometricFigure.cs",
+              "RelativeDocumentMoniker": "HeritageWorkshop.Core\\GeometricFigure.cs",
+              "ToolTip": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\HeritageWorkshop.Core\\GeometricFigure.cs",
+              "RelativeToolTip": "HeritageWorkshop.Core\\GeometricFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:28:30.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Backend.cs",
+              "DocumentMoniker": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\HeritageWorkshop.Console\\Backend.cs",
+              "RelativeDocumentMoniker": "HeritageWorkshop.Console\\Backend.cs",
+              "ToolTip": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\HeritageWorkshop.Console\\Backend.cs",
+              "RelativeToolTip": "HeritageWorkshop.Console\\Backend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T01:33:52.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trapeze.cs",
+              "DocumentMoniker": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\HeritageWorkshop.Core\\Trapeze.cs",
+              "RelativeDocumentMoniker": "HeritageWorkshop.Core\\Trapeze.cs",
+              "ToolTip": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\Tallerherencia2\\HeritageWorkshop\\HeritageWorkshop.Core\\Trapeze.cs",
+              "RelativeToolTip": "HeritageWorkshop.Core\\Trapeze.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T01:21:23.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.deps.json
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.dll
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.pdb
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.AssemblyInfoInputs.cache
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.AssemblyInfo.cs
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.csproj.CoreCompileInputs.cache
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.sourcelink.json
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.dll
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\obj\Debug\net8.0\refint\HeritageWorkshop.Core.dll
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.pdb
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop.Core\HeritageWorkshop.Core\obj\Debug\net8.0\ref\HeritageWorkshop.Core.dll
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.deps.json
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.dll
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.pdb
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.AssemblyInfoInputs.cache
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.AssemblyInfo.cs
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.csproj.CoreCompileInputs.cache
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.sourcelink.json
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.dll
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\refint\HeritageWorkshop.Core.dll
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.pdb
+C:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\ref\HeritageWorkshop.Core.dll
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.deps.json
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.dll
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.pdb
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.AssemblyInfoInputs.cache
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.AssemblyInfo.cs
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.csproj.CoreCompileInputs.cache
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.sourcelink.json
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.dll
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\refint\HeritageWorkshop.Core.dll
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.pdb
+D:\VISUAL_ESTUDIO\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\ref\HeritageWorkshop.Core.dll
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.deps.json
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.dll
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\bin\Debug\net8.0\HeritageWorkshop.Core.pdb
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.AssemblyInfoInputs.cache
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.AssemblyInfo.cs
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.sourcelink.json
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.dll
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\refint\HeritageWorkshop.Core.dll
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\HeritageWorkshop.Core.pdb
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\Taller herencia 2\HeritageWorkshop\HeritageWorkshop.Core\obj\Debug\net8.0\ref\HeritageWorkshop.Core.dll

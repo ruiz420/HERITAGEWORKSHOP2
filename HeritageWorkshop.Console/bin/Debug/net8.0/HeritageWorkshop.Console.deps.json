@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HeritageWorkshop.Console/1.0.0": {
+        "dependencies": {
+          "HeritageWorkshop.Core": "1.0.0"
+        },
+        "runtime": {
+          "HeritageWorkshop.Console.dll": {}
+        }
+      },
+      "HeritageWorkshop.Core/1.0.0": {
+        "runtime": {
+          "HeritageWorkshop.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HeritageWorkshop.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HeritageWorkshop.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
